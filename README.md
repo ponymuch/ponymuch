@@ -1,0 +1,6 @@
+- 👋 First language: Swift
+- 👀 Had difficulties: C++, Objective-C，React
+- 🌱 Most used: JavaScript, Python, Swift, Objective-C
+- 💞️ Totally hate: Objective-C, PHP
+- 📫 Most loved: Swift，React
+- 🦢 For beginners: Python
